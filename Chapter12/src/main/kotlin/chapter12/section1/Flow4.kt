@@ -1,3 +1,5 @@
+package chapter12.section1
+
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.collect
@@ -9,7 +11,7 @@ import kotlinx.coroutines.runBlocking
 /**
  *
  * @FileName:
- *          .Flow4
+ *          chapter12.section1.Flow4
  * @author: Tony Shen
  * @date: 2020-07-12 14:11
  * @version: V1.0 <描述当前版本功能>

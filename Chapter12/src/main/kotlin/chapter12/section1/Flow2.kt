@@ -1,24 +1,26 @@
+package chapter12.section1
+
 import kotlinx.coroutines.delay
+import kotlinx.coroutines.flow.channelFlow
 import kotlinx.coroutines.flow.collect
-import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.runBlocking
 import kotlin.system.measureTimeMillis
 
 /**
  *
  * @FileName:
- *          .Flow1
+ *          chapter12.section1.Flow2
  * @author: Tony Shen
- * @date: 2020-07-12 13:56
+ * @date: 2020-07-12 14:06
  * @version: V1.0 <描述当前版本功能>
  */
 fun main() = runBlocking {
 
-    val time = measureTimeMillis {
-        flow {
+    val time = measureTimeMillis{
+        channelFlow {
             for (i in 1..5) {
                 delay(100)
-                emit(i)
+                send(i)
             }
         }.collect{
             delay(100)
