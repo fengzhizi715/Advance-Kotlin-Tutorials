@@ -1,6 +1,7 @@
 plugins {
     id 'java'
     id 'org.jetbrains.kotlin.jvm' version '1.5.31'
+    id "io.morethan.jmhreport" version "0.9.0"
 }
 
 group 'org.example'
@@ -14,6 +15,14 @@ repositories {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+
+    implementation 'org.openjdk.jmh:jmh-core:1.25.2'
+    annotationProcessor 'org.openjdk.jmh:jmh-generator-annprocess:1.25.2'
+}
+
+jmhReport {
+    jmhResultPath = project.file('build/reports/jmh/result.json')
+    jmhReportOutput = project.file('build/reports/jmh')
 }
 
 compileKotlin {
