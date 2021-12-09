@@ -1,7 +1,5 @@
 package chapter5.section2.database
 
-import chapter5.section2.DatabaseDelegate
-
 /**
  *
  * @FileName:

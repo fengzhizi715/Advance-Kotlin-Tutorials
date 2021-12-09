@@ -1,4 +1,4 @@
-package chapter5.section2
+package chapter5.section2.database
 
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty
@@ -6,7 +6,7 @@ import kotlin.reflect.KProperty
 /**
  *
  * @FileName:
- *          chapter5.section2.DatabaseDelegate
+ *          chapter5.section2.database.DatabaseDelegate
  * @author: Tony Shen
  * @date: 2021/12/9 1:31 PM
  * @version: V1.0 <描述当前版本功能>
