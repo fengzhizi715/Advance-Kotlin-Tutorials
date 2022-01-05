@@ -4,3 +4,9 @@
 [![License](https://img.shields.io/badge/license-Apache%202-lightgrey.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 此 repository 是本人《Kotlin 进阶实战》一书中的相关的例子。
+
+勘误表地址：https://www.jianshu.com/p/cde13a905ade
+
+
+# 联系方式:
+wechat：fengzhizi715
