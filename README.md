@@ -1,3 +1,6 @@
 # Advance-Kotlin-Tutorials
 
-这周忙着述职，下周补上把后面的例子以及一些代码的注释说明。
+[![@Tony沈哲 on weibo](https://img.shields.io/badge/weibo-%40Tony%E6%B2%88%E5%93%B2-blue.svg)](http://www.weibo.com/fengzhizi715)
+[![License](https://img.shields.io/badge/license-Apache%202-lightgrey.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
+此 repository 是本人《Kotlin 进阶实战》一书中的相关的例子。
