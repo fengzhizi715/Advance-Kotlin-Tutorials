@@ -8,5 +8,15 @@
 勘误表地址：https://www.jianshu.com/p/cde13a905ade
 
 
+
+# 开发工具
+
+Java 的工程采用 Intellij IDEA 2021.3 社区版开发。（绝大多数工程使用它）
+
+Android 的工程采用 Android Studio Arctic Fox，gradle 版本在 6.1.1 以上
+
+Kotlin 版本 1.5.31
+
+
 # 联系方式:
 wechat：fengzhizi715
