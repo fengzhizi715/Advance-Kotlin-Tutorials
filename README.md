@@ -37,8 +37,11 @@
 |----------|-------------|------|
 | Singleton1 |使用对象声明实现单例模式||
 | Singleton2 |使用伴生对象来创建懒汉模式的单例||
+| Student |使用伴生对象的例子|
 | DataClass |介绍 Data Class 的特性|Data Class 的拷贝为浅拷贝|
 | Extension |使用继承的例子|Data Class 不能被继承|
+| SealedClass |使用密封类的例子|
+
 
 # 开发工具
 
