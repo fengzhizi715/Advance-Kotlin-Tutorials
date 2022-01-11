@@ -22,7 +22,7 @@
 
 # 开发工具
 
-Java 的工程采用 Intellij IDEA 2021.3 社区版开发。（绝大多数工程使用它）
+Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
 
 Android 的工程采用 Android Studio Arctic Fox，gradle 版本在 6.1.1 以上
 
