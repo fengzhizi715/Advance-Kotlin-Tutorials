@@ -52,6 +52,8 @@
 ### 3.2 section 2
 | 类名      |      用途    |  备注 |
 |----------|-------------|------|
+| SAM |在 Kotlin 1.4 之后，增加了支持 Kotlin 接口和函数的 SAM 转换||
+| Lambda |展示了函数类型本质上实现了 kotlin.jvm.functions.FunctionN 接口||
 
 
 # 开发工具
