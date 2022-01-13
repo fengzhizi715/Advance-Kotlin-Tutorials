@@ -60,6 +60,15 @@
 |----------|-------------|------|
 | SequenceBenchmark |使用jmh进行基准测试，对比 Sequence、List||
 
+
+## Chapter 4
+### 4.1 section 1
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| Inline |inline 使用的例子||
+| NoInline |禁用内联的例子||
+
+
 # 开发工具
 
 Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
