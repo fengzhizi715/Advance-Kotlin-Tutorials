@@ -55,6 +55,10 @@
 | SAM |在 Kotlin 1.4 之后，增加了支持 Kotlin 接口和函数的 SAM 转换||
 | Lambda |展示了函数类型本质上实现了 kotlin.jvm.functions.FunctionN 接口||
 
+### 3.3 section 3
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| SequenceBenchmark |使用jmh进行基准测试，对比 Sequence、List||
 
 # 开发工具
 
