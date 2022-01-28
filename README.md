@@ -120,6 +120,14 @@
 | Contravariance |逆变的例子||
 
 
+### 6.3 section 3
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| Upper |上界约束的例子||
+| TypeProjections |类型投影的例子||
+| StarProjections |星号投影的例子||
+
+
 # 开发工具
 
 Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
