@@ -89,7 +89,7 @@
 | DynamicProxyDemo |Java 实现的动态代理的例子||
 
 
-### 5.1 section 2
+### 5.2 section 2
 | 类名      |      用途    |  备注 |
 |----------|-------------|------|
 | Delegate1 |Kotlin 实现委托模式的例子||
@@ -97,7 +97,7 @@
 | Delegate3 |Kotlin 实现委托属性的第一个例子||
 | Delegate4 |Kotlin 实现委托属性的第二个例子||
 
-### 5.1 section 3
+### 5.3 section 3
 | 类名      |      用途    |  备注 |
 |----------|-------------|------|
 | Lazy |使用 by lazy 的例子||
@@ -111,6 +111,13 @@
 | Generic1 |Kotlin 版本的代码同样适用此方法||
 | Generic2 |Java 利用反射获取运行时泛型参数的类型，子类可以获取父类泛型的具体类型||
 | Generic2 |Kotlin 版本的代码同样适用此方法||
+
+
+### 6.2 section 2
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| Covariance |协变的例子||
+| Contravariance |逆变的例子||
 
 
 # 开发工具
