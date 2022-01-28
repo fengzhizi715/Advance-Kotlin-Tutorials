@@ -140,6 +140,19 @@
 | ClassProperty |使用类名::属性来获取成员属性的引用||
 
 
+## Chapter 8
+### 8.2 section 2
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| Receiver1 |带接收者的函数类型的例子||
+| Receiver2 |apply 函数使用的例子||
+| DSL1 |创建一个自己的 DSL||
+| DSL2 |对 String 添加一个扩展函数invoke，并结合带接收者的 Lambda 作为参数||
+| DSL3 |定义一个 Dependency 类用于模拟 Gradle 添加库的依赖||
+| Assertion |使用中缀表达式实现 DSL||
+| AssertionTest |Assertion 的单元测试||
+
+
 # 开发工具
 
 Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
