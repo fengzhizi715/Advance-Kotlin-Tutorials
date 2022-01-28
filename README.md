@@ -89,6 +89,20 @@
 | DynamicProxyDemo |Java 实现的动态代理的例子||
 
 
+### 5.1 section 2
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| Delegate1 |Kotlin 实现委托模式的例子||
+| Delegate2 |Kotlin 实现委托模式的另一个例子||
+| Delegate3 |Kotlin 实现委托属性的第一个例子||
+| Delegate4 |Kotlin 实现委托属性的第二个例子||
+
+### 5.1 section 3
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| Lazy |使用 by lazy 的例子||
+
+
 # 开发工具
 
 Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
