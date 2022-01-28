@@ -153,6 +153,13 @@
 | AssertionTest |Assertion 的单元测试||
 
 
+## Chapter 9
+### 9.1 section 1
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| InvokeClass |如果重载了调用操作符，那么在调用这个函数时可以省略 invoke 函数名||
+
+
 # 开发工具
 
 Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
