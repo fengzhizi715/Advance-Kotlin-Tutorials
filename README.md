@@ -128,6 +128,18 @@
 | StarProjections |星号投影的例子||
 
 
+## Chapter 7
+### 7.3 section 3
+| 类名      |      用途    |  备注 |
+|----------|-------------|------|
+| KFunctionN1 |使用方法引用获得 KFunction 实例||
+| KFunctionN2 |使用 KFunctionN 来引用类的扩展函数||
+| KProperty |使用::属性来获取不可变属性的引用||
+| KMutableProperty |使用::属性来获取可变属性的引用||
+| ExtensionProperty |使用类名::属性来获取扩展属性的引用||
+| ClassProperty |使用类名::属性来获取成员属性的引用||
+
+
 # 开发工具
 
 Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
