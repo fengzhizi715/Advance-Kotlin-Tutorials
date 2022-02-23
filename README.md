@@ -201,6 +201,15 @@ https://github.com/fengzhizi715/AndroidServer
 ### 16.4 section 4
 https://github.com/fengzhizi715/EventBus
 
+
+## Chapter 17
+
+### 17.1 section 1
+https://github.com/KilleTom/RxTask
+
+### 17.2 section 2
+https://github.com/fengzhizi715/KStateMachine
+
 # 开发工具
 
 Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
