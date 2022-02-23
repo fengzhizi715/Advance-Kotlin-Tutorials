@@ -186,7 +186,20 @@ https://github.com/KilleTom/room
 ### 15.6 section 6
 https://github.com/KilleTom/JetPackProject
 
+
 ## Chapter 16
+
+### 16.1 section 1
+https://github.com/fengzhizi715/SAF-Kotlin-log
+
+### 16.2 section 2
+https://github.com/fengzhizi715/NetDiagnose
+
+### 16.3 section 3
+https://github.com/fengzhizi715/AndroidServer
+
+### 16.4 section 4
+https://github.com/fengzhizi715/EventBus
 
 # 开发工具
 
