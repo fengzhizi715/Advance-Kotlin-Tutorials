@@ -210,6 +210,22 @@ https://github.com/KilleTom/RxTask
 ### 17.2 section 2
 https://github.com/fengzhizi715/KStateMachine
 
+### 17.3 section 3
+公司的内部项目无法开源，抱歉
+
+
+## Chapter 18
+
+### 18.3 section 3
+https://github.com/fengzhizi715/NetDiscovery
+
+### 18.4 section 4
+公司的内部项目无法开源，抱歉
+
+### 18.5 section 5
+公司的内部项目无法开源，抱歉
+
+
 # 开发工具
 
 Java 的工程采用 Intellij IDEA 2021.3 社区版开发，，gradle 版本使用 6.7（绝大多数工程使用它）
